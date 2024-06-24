@@ -1,4 +1,4 @@
-<h1 align="center"> 🕯 Welcome to Scholars Haven! 🕯</h1>
+<h1 align="center"> 🕯 Welcome to Scholars' Haven! 🕯</h1>
 
 <p align="center">
   <a href="https://github.com/your-username/scholars-haven">
@@ -8,15 +8,15 @@
 
 ---
 
-Welcome to **Scholars Haven**, a dynamic scholarly platform powered by **Permit.io** for role-based access control and MongoDB for flexible data management.
+Welcome to **Scholars' Haven**, a dynamic scholarly platform powered by **Permit.io** for role-based access control and MongoDB for flexible data management.
 
 ## 🕯️ Project Description
 
-Scholars Haven is designed to facilitate seamless collaboration and knowledge sharing among students, professors, and researchers. It provides a secure environment where users can manage scholarly papers, provide feedback, and ensure compliance with dynamic access controls.
+Scholars' Haven is designed to facilitate seamless collaboration and knowledge sharing among students, professors, and researchers. It provides a secure environment where users can manage scholarly papers, provide feedback, and ensure compliance with dynamic access controls.
 
 ## 🛡️ Usage of Permit.io
 
-Scholars Haven utilizes Permit.io for fine-grained access control based on roles and actions. Each user role (student, professor, researcher) has specific permissions:
+Scholars' Haven utilizes Permit.io for fine-grained access control based on roles and actions. Each user role (student, professor, researcher) has specific permissions:
 
 - **Student**: Can upload research papers and view their own submissions.
 - **Professor**: Can perfom actions similar to that of students and additionally, review student papers, provides feedback, and manages submissions.
@@ -60,7 +60,7 @@ Permit.io ensures that access rights are dynamically adjusted based on real-time
 
 ## 📜 Installation
 
-To run Scholars Haven locally, follow these steps:
+To run Scholars' Haven locally, follow these steps:
 
 ### Clone the repository:
 
@@ -98,8 +98,5 @@ npm run dev
 
 Open your browser and navigate to http://localhost:3000.
 
+## 🖋️ Thank you!
 
-
-   ```bash
-   git clone https://github.com/your-username/scholars-haven.git
-   cd scholars-haven
