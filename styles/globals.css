@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-dark-academia-bg text-dark-academia-text font-serif;
+}
+
+a {
+  @apply text-dark-academia-highlight;
+}
+
+button {
+  @apply bg-dark-academia-accent text-dark-academia-text rounded px-4 py-2 transition duration-300 ease-in-out;
+}
+
+button:hover {
+  @apply bg-dark-academia-highlight;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-sans text-dark-academia-highlight;
+}
