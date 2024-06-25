@@ -49,6 +49,16 @@ Permit.io ensures that access rights are dynamically adjusted based on real-time
 - **Explore Papers**: Browse and search through published papers.
 - **Flag Content**: Report inappropriate content and manage moderation.
 
+## Screen shots (dashboard)
+
+![image](https://github.com/JuanitaCathy/Scholarly-Discourse-Platform/assets/114871036/a85917f3-a4ea-451d-ad2d-5873072bfa17)
+![image](https://github.com/JuanitaCathy/Scholarly-Discourse-Platform/assets/114871036/d620743e-4ad0-4981-a12b-83a16b331dba)
+![image](https://github.com/JuanitaCathy/Scholarly-Discourse-Platform/assets/114871036/bcf7f225-057c-4c5f-b792-19706ac858ec)
+
+
+### Checkout the demo here:
+
+
 ## 🛠️ Technologies Used
 
 - **Frontend**: Next.js and React for responsive UI/UX.
