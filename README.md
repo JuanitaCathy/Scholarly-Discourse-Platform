@@ -56,7 +56,7 @@ Permit.io ensures that access rights are dynamically adjusted based on real-time
 ![image](https://github.com/JuanitaCathy/Scholarly-Discourse-Platform/assets/114871036/bcf7f225-057c-4c5f-b792-19706ac858ec)
 
 
-### Checkout the demo here:
+### Checkout the demo here: https://youtu.be/kvuBSblGXJ4
 
 
 ## 🛠️ Technologies Used
